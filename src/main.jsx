@@ -4,7 +4,7 @@ import AboutPage from './pages/About'
 import ContactsPage from './pages/Contacts'
 import HomePage from './pages/Home'
 import ProjectsPage from './pages/Projects'
-import './index.scss'
+import './index.css'
 
 import {
   createBrowserRouter,
